@@ -1,0 +1,6 @@
+1.- ¿Para qué sirve el comando npm init?
+ Este comando funciona para activar la inicialización del proyecto. Este comando funciona como una herramienta para crear el archivo package. Donde se guardan cosas importantes como:
+- El nombre de tu proyecto.
+- La versión.
+- Las herramientas o librerías que tu proyecto necesita para funcionar (llamadas dependencias).
+- Y algunos comandos que puedes usar para ejecutar tareas específicas.
